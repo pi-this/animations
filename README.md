@@ -1,4 +1,4 @@
 # animations
 Storage for all of my animations
 
-bounce.gif: This was made using Adobe Animate
+https://github.com/pi-this/animations/blob/main/bounce.gif: This was made using Adobe Animate
